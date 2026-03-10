@@ -1,0 +1,77 @@
+body{
+    margin:0px;
+    background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("img2.png");
+
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+    height:40px;
+    position:fixed;
+    width:100%;
+    background-color:blue;
+}
+nav a{ 
+    color: lightblue;
+    text-decoration: none;
+
+}
+.kotakBiotek{
+    width:40%;
+    margin-left:50px;
+    padding-top:100px;
+}
+.namaBiotek{
+    font-size:50px;
+}
+.deskBiotek{
+    color:burlywood;
+    font-size:20px;
+}
+section.project img {
+    height:300px;
+    margin:auto;
+    padding:50px 20px;
+}
+section.howto{
+    height:640px;
+    padding: top 100px;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.howto img {
+    display:flex;
+    width:60%;
+    margin:auto;
+}
+.dokumentasi{
+    margin:20px;
+}
+.cardProfile{
+    background-color:rgb(59, 108, 125);
+    padding:15px;
+    width:300px;
+    margin:auto;
+    text-align:center;
+}
+.imgProfile img{
+    width:100%
+}
+.medsos {
+    left:0;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    height:40px;
+    padding-top:5px;
+}
+.medsos a{
+    text-decoration:none;
+    padding:10px 10px;
+    font-size:24px;
+}
